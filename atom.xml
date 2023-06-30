@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-30T12:59:16.974Z</updated>
+  <updated>2023-06-30T13:01:52.814Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/06/30/TERMUX%E6%90%AD%E5%BB%BAHEXO%E4%BB%A5%E5%8F%8A%E5%90%8E%E7%BB%AD%E9%83%A8%E7%BD%B2%EF%BC%88%E4%B8%8A%EF%BC%89/"/>
     <id>http://example.com/2023/06/30/TERMUX%E6%90%AD%E5%BB%BAHEXO%E4%BB%A5%E5%8F%8A%E5%90%8E%E7%BB%AD%E9%83%A8%E7%BD%B2%EF%BC%88%E4%B8%8A%EF%BC%89/</id>
     <published>2023-06-30T12:38:44.000Z</published>
-    <updated>2023-06-30T12:59:16.974Z</updated>
+    <updated>2023-06-30T13:01:52.814Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h3><h2 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h2><p><em>安卓7.0以上</em></p><h2 id="安装termux"><a href="#安装termux" class="headerlink" title="安装termux"></a>安装termux</h2><p>官网:  <a href="https://termux.com/">TERMUX官网</a><br>国内下载(自用): <a href="www.jxdown.com%5Csoft%5C48271.html">极限下载</a></p><h2 id="换源并更新"><a href="#换源并更新" class="headerlink" title="换源并更新"></a>换源并更新</h2><p>(<code>）  sed -i &#39;s@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main stable main@&#39; $PREFIX/etc/apt/sources.list  apt update &amp;&amp; apt upgrade (</code>）</p><h2 id="安装必须软件"><a href="#安装必须软件" class="headerlink" title="安装必须软件"></a>安装必须软件</h2><p><code>pkg install git</code><br><code>pkg install nodejs-lts</code><br><code>pkg install vim</code></p><h2 id="安装HEXO"><a href="#安装HEXO" class="headerlink" title="安装HEXO"></a>安装HEXO</h2><p> <code>npm install hexo-cli -g</code></p><h2 id="创建站点"><a href="#创建站点" class="headerlink" title="创建站点"></a>创建站点</h2><p><code>mkdir hexo</code><br><code>chmod 777 hexo</code><br><code>cd hexo</code><br><code>hexo init</code></p><p><strong>注意 必须在termux目录才可创建 否则报错</strong></p><h2 id="刷新并访问本地网页测试"><a href="#刷新并访问本地网页测试" class="headerlink" title="刷新并访问本地网页测试"></a>刷新并访问本地网页测试</h2><h2 id="hexo-ghexo-s浏览器进入网站测试"><a href="#hexo-ghexo-s浏览器进入网站测试" class="headerlink" title="hexo ghexo s浏览器进入网站测试"></a><code>hexo g</code><br><code>hexo s</code><br><br>浏览器进入网站测试</h2><p><code>http:\\127.0.0.1:4000</code></p><p><em><strong>到此 恭喜你的hexo已经基本成型了 下期我会讲述加载butterfly主题已经挂载至gitee 敬请期待</strong></em></p>]]></content>
     
