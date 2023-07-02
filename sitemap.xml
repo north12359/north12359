@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/07/02/ARCHLINUX%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2023-07-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/07/01/TERMUX%E9%83%A8%E7%BD%B2HEXO%E4%BB%A5%E5%8F%8A%E5%90%8E%E7%BB%AD%E9%83%A8%E7%BD%B2-%E4%B8%AD/</loc>
     
     <lastmod>2023-07-01</lastmod>
@@ -80,6 +89,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/ARCHLINUX/</loc>
+    <lastmod>2023-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -90,7 +106,21 @@
   </url>
   
   <url>
+    <loc>http://example.com/categories/%E6%95%99%E7%A8%8B/archlinux/</loc>
+    <lastmod>2023-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/%E6%95%99%E7%A8%8B/hexo/</loc>
+    <lastmod>2023-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E6%95%99%E7%A8%8B/archlinux/linux/</loc>
     <lastmod>2023-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
